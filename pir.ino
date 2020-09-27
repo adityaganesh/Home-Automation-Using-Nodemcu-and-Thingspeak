@@ -14,8 +14,8 @@
 const char* ssid = "your ssid";  
 const char* password = "your wifi password";  
 WiFiClient client;  
-unsigned long myChannelNumber =   519891;  
-const char * myWriteAPIKey = "MP6JL0EXX29SJKZV";  
+unsigned long myChannelNumber =   your channel number;  
+const char * myWriteAPIKey = "your write api key";  
 //the time we give the sensor to calibrate (10-60 secs according to the datasheet)
 int calibrationTime = 30;       
  
