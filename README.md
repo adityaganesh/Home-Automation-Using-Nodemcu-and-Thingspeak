@@ -7,5 +7,6 @@ Generally a pir has a 2 potentiometers attached to it by which we can change its
 # Setting up Thingspeak 
 First you need to have a matlab account for thingspeak once you create that you will have something named as channels in navigation bar and go to my channels and then click on new channel and then it will ask a form to fill up and make sure to choose only a specified number of fields of how much data you are monitoring.
 # Arduino IDE code and API for thingspeak
-In my arduino code as you can see their are 2 api keys required one is the write api key 
+In my arduino code as you can see their are 2 fields required one is the write api key and one is the channel number. You will get the channel id once you create your channel.It will be written at the top as Channel ID and to find out the write api key go to the section API keys and copy paste the write api key from their and now you are good to go
+
 
